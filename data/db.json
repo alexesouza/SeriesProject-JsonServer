@@ -1,0 +1,25 @@
+{
+  "series": [
+    {
+      "nomeSerie": "billions",
+      "numTemporada": 8,
+      "nomeEstudio": "teste",
+      "anoLancamento": 2012,
+      "id": "09f8"
+    },
+    {
+      "id": "09f8",
+      "nomeSerie": "chaves",
+      "numTemporada": 7,
+      "nomeEstudio": "teste",
+      "anoLancamento": 2012
+    },
+    {
+      "id": "09f8",
+      "nomeSerie": "chaves",
+      "numTemporada": 6,
+      "nomeEstudio": "teste",
+      "anoLancamento": 2013
+    }
+  ]
+}
